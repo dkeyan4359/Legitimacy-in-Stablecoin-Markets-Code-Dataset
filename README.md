@@ -1,12 +1,4 @@
-\begin{itemize}
-      \item Scores: hand-coded from primary documents
-      (6 dimensions \(\times\) 30 coins), verified file available.
-
-      \item Market data: daily panel (CoinGecko-style extracts),
-      hourly 144-hour panel around the vote, Bitstamp USDC/USD hourly.
-
-      \item One self-contained script reproduces every table and
-      figure (fixed seed 42; 1,000 randomization permutations).
-
-      \item Code and data dictionary available at:.
-    \end{itemize}
+Here is all the dataset that the python code need to import, inclusing 30 Stablesoins' Daily data.
+One file containg the 144 hours downloaded from the Exchange Bitstamp which is around 2025.5.19
+All data files have already been cleaned and named, which can be read more easily
+stablecoin_scores_verified file is about the score file. For more detailed data about the score, contact me by email: Xuanshang.Dong23@studednt.xjtlu.edu.cn
